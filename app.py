@@ -10,8 +10,6 @@ app.layout = [html.Div(children='Hello World')]
 
 
 
-
-
 #start app
 if __name__ == '__main__':
     app.run(debug=True)
